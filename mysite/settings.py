@@ -26,7 +26,8 @@ SECRET_KEY = 'django-insecure-i!uo+2em$s5yp!#!dr=h=m^f5ut-o+54s_hp&e+tqiaz9#)%96
 DEBUG = True
 
 ALLOWED_HOSTS = [
-	'0.0.0.0'
+	'0.0.0.0',
+    'danial.darkube.app'
 ]
 
 # Application definition
